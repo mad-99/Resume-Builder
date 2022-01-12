@@ -64,8 +64,7 @@ class PersonalDetails extends Component {
         return (
             <div className="card animated fadeInLeft">
                 <div className="card-body">
-                // <p>{JSON.stringify(this.props)}</p>
-                    // <h3 className="card-title">{this.props.show_name? `Welcome ${this.props.show_name}`: `test ${this.props.show_name}` }</h3>
+                
 
                     <h3 className="card-title">Personal Info</h3>
                     <hr />
